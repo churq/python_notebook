@@ -1,0 +1,2 @@
+#command:
+-> nosetests --with-coverage --cover-erase --cover-package=[filepath] --cover-html
