@@ -4,3 +4,5 @@ e.g
 C:\Users\churac0\dev\project\finance-metrics> nosetests --with-coverage --cover-erase --cover-html
 
 cover folder will be generated locally, where html files of test reports are generated.
+
+*.covergerc: config file of nosetests coverage, can be found automatically by nosetests
