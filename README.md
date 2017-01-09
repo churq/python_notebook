@@ -1,1 +1,2 @@
-notes of python rules
+PYTHON UNIT tests
+PYTHON coverage tests
